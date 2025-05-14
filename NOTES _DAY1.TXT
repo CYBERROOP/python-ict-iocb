@@ -1,0 +1,10 @@
+**PYTHON**  
+
+- CASE SENSITIVE
+- Identifier , used to identify a variable 
+
+** RULES OF CREATING IDENTIFIER **
+
+-Starts with an alphabet or underscore.
+-Followed by digits , zero , underscope , letters , special characters and more. 
+-Keywords can't be Identifier
